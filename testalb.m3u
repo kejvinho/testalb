@@ -226,3 +226,12 @@ https://stream.arkiva.dev/seg/ZfA70UjTF8roPY8ucSm9bROyw8MKR82YrRY6xgG5-Ya3SBhU2f
 
 #EXTINF:-1 group-title="Muzike",Zico TV
 #https://shqiperia.dev/live/94/play
+
+############ FERMA VIP ############
+#EXTINF:-1 group-title="Ferma Vip",Ferma Vip 1
+https://shqiperia.dev/ferma-vip/19
+
+#EXTINF:-1 group-title="Ferma Vip",Ferma Vip 2
+https://shqiperia.dev/ferma-vip/20
+
+
