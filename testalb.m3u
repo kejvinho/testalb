@@ -234,5 +234,8 @@ https://stream.arkiva.dev/seg/V9YNLBodmzLZpClijw-JKRdYHw3VeWYPlFa32eiFN0Ie7_88ab
 https://stream.arkiva.dev/seg/1zOWJm-zd3hn9D20PRf3GZ1svl6y3V2Iy1NChkejqNkvIObHNRy-NQD67v2bMGOmUvG2JkEBmfN9AtNH91IT9i9OspbMWW3uWoGLb5jMF9zzMSEwlUwrlAVYtnDGX6Jwn15_m-EW_w
 
 ############ ADULT ############
-
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net MILF
+http://live.adultiptv.net/milf.m3u8
 
