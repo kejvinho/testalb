@@ -23,12 +23,6 @@ http://178.237.56.174:8080/live/27922223103749/87377791142054/972298.ts?token=cX
 #EXTINF:-1 group-title="Kombetare",Klan Plus
 https://stream.arkiva.dev/seg/ZkTzPJR7z9Ksd91Ys2F5RxUHr5epCdqKSoKgyro3hl_d2phyHGxr7kNjN9--iQOX-7sFWKBmIZKzoy_HFymz3tvjpoviYXCoHpOGY9eo6vr-EuzhgysNw6O-ocYgjLpMDoPgxdtGHbHRXS1s
 
-#EXTINF:-1 group-title="Kombetare",Syri TV
-https://stream.arkiva.dev/seg/4XMTRrPFp1wOfB6nCqvSfHXRog-b21U6YetuGSNaswTiKGnHtjkOEAn_T3jH7rRoYPkoQ_3hO-EPXcPxP8iDzMsbGyx-h2FpWGgjg-z4EKzw2qS2XSJinTSApAox-Ahj1WITo8eDgxVav9_kLQ
-
-
-#EXTINF:-1 group-title="Kombetare",News 24
-https://stream.arkiva.dev/seg/d8IF8kwvrQPcEKqCUH_nzuuq2CK-YI8Q0ysZ7BCLJcKDVRKgDFxjzs0aZBv7x-GF7RsSWLgOAxtYtkLfUo9JzSoIje8i0RgXEuOsNs0UAgWFCGxTBYb_3TEGNPTrxNg6OXiZLej00K6JRdhpDLlbft0
 
 
 #EXTINF:-1 group-title="Kombetare",ABC News
@@ -238,4 +232,12 @@ https://stream.arkiva.dev/seg/1zOWJm-zd3hn9D20PRf3GZ1svl6y3V2Iy1NChkejqNkvIObHNR
 http://live.adultiptv.net/livecams.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net MILF
 http://live.adultiptv.net/milf.m3u8
+
+############ LAJME ############
+#EXTINF:-1 group-title="Kombetare",Syri TV
+https://stream.arkiva.dev/seg/4XMTRrPFp1wOfB6nCqvSfHXRog-b21U6YetuGSNaswTiKGnHtjkOEAn_T3jH7rRoYPkoQ_3hO-EPXcPxP8iDzMsbGyx-h2FpWGgjg-z4EKzw2qS2XSJinTSApAox-Ahj1WITo8eDgxVav9_kLQ
+
+
+#EXTINF:-1 group-title="Kombetare",News 24
+https://stream.arkiva.dev/seg/d8IF8kwvrQPcEKqCUH_nzuuq2CK-YI8Q0ysZ7BCLJcKDVRKgDFxjzs0aZBv7x-GF7RsSWLgOAxtYtkLfUo9JzSoIje8i0RgXEuOsNs0UAgWFCGxTBYb_3TEGNPTrxNg6OXiZLej00K6JRdhpDLlbft0
 
