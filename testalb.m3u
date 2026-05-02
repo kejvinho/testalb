@@ -298,6 +298,15 @@ http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126507 | https://stream.arkiva.d
 #EXTINF:-1 group-title="Muzike",Zico TV
 #https://shqiperia.dev/live/94/play | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/180091
 
+#EXTINF:-1 group-title="Muzike",TV Teuta
+http://cf.business-cloud-8k.com/live/d3e3b631e048/0e624d3df6/591956.ts
+
+#EXTINF:-1 group-title="Muzike",HIT TV
+http://cf.business-cloud-8k.com/live/d3e3b631e048/0e624d3df6/591957.ts
+
+#EXTINF:-1 group-title="Muzike",My Music
+http://cf.business-cloud-8k.com/live/d3e3b631e048/0e624d3df6/294605.ts | http://185.245.1.95/live/play/ZUc1eGNuWkpaV2RzYVZaTGRUZG1OVXhWV1dKMlR6YzBZMDlrS3pOTVpVSlVaR3RxZGpadVQzZDNWVDA9/294605
+
 ############ FERMA VIP ############
 #EXTINF:-1 group-title="Ferma Vip",Ferma Vip 1 
 https://stream.arkiva.dev/seg/V9YNLBodmzLZpClijw-JKRdYHw3VeWYPlFa32eiFN0Ie7_88abNHGjA0iJbo9tLskpiiDTeal8Q0Fx-Fy0XsWzZ5vm08_C92-MQzoZdw9OqLlukCKXOHrTn7sNXzBRU6nYv-TKY6pg
