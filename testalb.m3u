@@ -871,6 +871,20 @@ http://yrtds0911.xyz:8080/ilker009/009ilker/565996
 #EXTINF:-1 tvg-id="" tvg-name="????? TV" tvg-logo="http://img-cdn.curl.pk:8880/chimg/8498506588.jpg" group-title="XX/ FOR ADULTS+18",????? TV
 http://yrtds0911.xyz:8080/ilker009/009ilker/565997
 
+#EXTINF:-1 tvg-id="" tvg-name="AL: KANAL D" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/ALBANIA/KANAL-D.png" group-title="|AL| ALBANIA TV 4K",AL: KANAL D
+http://bluetv.cc:8880/30409323109791/11313178659613/540566
+#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN PLUS HD" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/ALBANIA/KLAN%20PLUS.png" group-title="|AL| ALBANIA TV 4K",AL: KLAN PLUS HD
+http://bluetv.cc:8880/30409323109791/11313178659613/540567
+#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN MACEDONIA" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/ALBANIA/KLAN-MACEDONIA.png" group-title="|AL| ALBANIA TV 4K",AL: KLAN MACEDONIA
+http://bluetv.cc:8880/30409323109791/11313178659613/540568
+#EXTINF:-1 tvg-id="" tvg-name="AL : KLAN KOSOVA" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/ALBANIA/KLAN%20KOSOVA.png" group-title="|AL| ALBANIA TV 4K",AL : KLAN KOSOVA
+http://bluetv.cc:8880/30409323109791/11313178659613/540569
+#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN KOSOVA HD" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/ALBANIA/KLAN%20KOSOVA.png" group-title="|AL| ALBANIA TV 4K",AL: KLAN KOSOVA HD
+http://bluetv.cc:8880/30409323109791/11313178659613/540570
+#EXTINF:-1 tvg-id="" tvg-name="AL : KLAN" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/ALBANIA/KLAN.png" group-title="|AL| ALBANIA TV 4K",AL : KLAN
+http://bluetv.cc:8880/30409323109791/11313178659613/540571
+#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN HD" tvg-logo="http://pic.apkdt.co/pic/temu/Europe/ALBANIA/KLAN.png" group-title="|AL| ALBANIA TV 4K",AL: KLAN HD
+http://bluetv.cc:8880/30409323109791/11313178659613/540572
 
 ############ News ############
 #EXTINF:-1 group-title="News",Syri TV 
