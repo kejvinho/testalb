@@ -113,7 +113,7 @@ http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33285 | https://sas24.live:443/2
 ############ FILMA ############
 
 #EXTINF:-1 group-title="Filma",T HD
-http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/102531 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22620 | https://sas24.live:443/27922223103749/87377791142054/972118 | https://sas24.live:443/27922223103749/87377791142054/972119
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1061000 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/102531 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22620 | https://sas24.live:443/27922223103749/87377791142054/972118 | https://sas24.live:443/27922223103749/87377791142054/972119
 
 #EXTINF:-1 group-title="Filma",Tring Super
 https://stream.arkiva.dev/seg/4ofU9ddGb_2Udg8X-5UdM5exkFSOn6vWow_EG6ykeBXcb7A7NVCbaWz0qnocDXYpFuU1z2i9L8Wz8TVZ1YGat8iQRlnRLgBWSVuLAIoBC5Y0dZ8Ka7SaLvHWkm9FKkuyB8dafTaxVmcHIa0vRTlEMx8m7nut | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/91722 | https://sas24.live:443/27922223103749/87377791142054/972136
@@ -196,8 +196,8 @@ http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33240 | https://sas24.live:443/2
 #EXTINF:-1 group-title="Dokumentare",Living HD
 https://stream.arkiva.dev/seg/u8xAmkc_rVP646ndJb4-fyhM7ZR9SN8sIxrN8lLeb_RgjKXfnaqAaHkjUgYd5mqw7GYhv6-TMESb3HOVmr5EbFkO4y9BLCste1-kcZK1_JfKeGvwoLofzw | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33248
 
-#EXTINF:-1 group-title="Dokumentare",Animal TV
-https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8 | 
+#EXTINF:-1 group-title="Dokumentare",NAT GEO
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1060959
 
 #EXTINF:-1 group-title="Dokumentare",Tring World
 http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22644 | https://sas24.live:443/27922223103749/87377791142054/972099
@@ -300,31 +300,79 @@ https://stream.arkiva.dev/seg/1zOWJm-zd3hn9D20PRf3GZ1svl6y3V2Iy1NChkejqNkvIObHNR
 ############ ADULT ############
 
 #EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
-https://xc.adultiptv.net/live/rll9750/9KacYnPP5qWW/3.m3u
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1788002
 
 #EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
-https://xc.adultiptv.net/live/rll9750/9KacYnPP5qWW/112436.m3u8
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1788001
 
 #EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
-https://xc.adultiptv.net/live/rll9750/9KacYnPP5qWW/75644.m3u8
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1787999
 
 #EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
-https://xc.adultiptv.net/live/rll9750/9KacYnPP5qWW/812364.m3u8
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1787998
 
 #EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
-https://xc.adultiptv.net/live/rll9750/9KacYnPP5qWW/421664.m3u8
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991860
 
 #EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
-https://xc.adultiptv.net/live/rll9750/9KacYnPP5qWW/712703.m3u8
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991843
 
 #EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
-https://xc.adultiptv.net/live/rll9750/9KacYnPP5qWW/519770.m3u8
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991844
 
 #EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
-https://xc.adultiptv.net/live/rll9750/9KacYnPP5qWW/110469.m3u8
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991910
 
 #EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
-https://xc.adultiptv.net/live/rll9750/9KacYnPP5qWW/775354.m3u8
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991911
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991879
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991881
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991914
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991852
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991882
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991920
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991884
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991924
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991887
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991899
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991830
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991870
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991871
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991868
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://103.211.103.238/live/play/VDNWNU5rUjNkMUpoTkN0TlFWWlpSbkowTURoVFdEWTJaeTlEUm13clJVNVVZV3RGWldwSFIxSTJVVDA9/1991867
+
+#EXTINF:-1 group-title="Adult",MyCamTV Teen Girls     
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1991926
 
 ############ News ############
 #EXTINF:-1 group-title="News",Syri TV 
