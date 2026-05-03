@@ -197,7 +197,7 @@ http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33240 | https://sas24.live:443/2
 https://stream.arkiva.dev/seg/u8xAmkc_rVP646ndJb4-fyhM7ZR9SN8sIxrN8lLeb_RgjKXfnaqAaHkjUgYd5mqw7GYhv6-TMESb3HOVmr5EbFkO4y9BLCste1-kcZK1_JfKeGvwoLofzw | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33248
 
 #EXTINF:-1 group-title="Dokumentare",NAT GEO
-http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1060959
+http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1060959 | http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1060959.ts
 
 #EXTINF:-1 group-title="Dokumentare",Tring World
 http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22644 | https://sas24.live:443/27922223103749/87377791142054/972099
