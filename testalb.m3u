@@ -4,7 +4,7 @@
 #EXTINF:-1 group-title="Kombetare",Top Channel
 http://apptv.xyz:8080/live/09042027/bwGzYpJ/94011.ts
 
-#EXTINF:-1 group-title="Kombetare",TV Klan 
+#EXTINF:-1 tvg-id="13261" tvg-name="AL: TV Klan ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Kombetare",TV Klan 
 http://apptv.xyz:8080/live/09042027/bwGzYpJ/94012.ts
 
 #EXTINF:-1 group-title="Kombetare",Vizion PluS
@@ -557,5 +557,161 @@ https://prx-1476-ant.vmwesa.online/hls2/01/02339/fpylbx2out20_n/index-v1-a1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://amazon.com/images/M/MV5BMTM1NTU0NTE4MV5BMl5BanBnXkFtZTcwMTQ0MjEzMw@@._V1_.jpg" group-title="VOD|Dublime",Ekspresi Polar
+
+############ Te Huaja ############
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="!T: RAI 4K" tvg-logo="" group-title="Te Huaja|Italiane",!T: RAI 4K
+http://apptv.xyz:8080/09042027/bwGzYpJ/60279
+#EXTINF:-1 tvg-id="" tvg-name="!T: Rai 1 FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Rai 1 FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30653
+#EXTINF:-1 tvg-id="" tvg-name="!T: Rai 1 HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Rai 1 HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30654
+#EXTINF:-1 tvg-id="" tvg-name="!T: Rai 2 HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Rai 2 HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30657
+#EXTINF:-1 tvg-id="" tvg-name="!T: Rai 2 HD +1" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Rai 2 HD +1
+http://apptv.xyz:8080/09042027/bwGzYpJ/30658
+#EXTINF:-1 tvg-id="" tvg-name="!T: Rai 3 FHD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Rai 3 FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30659
+#EXTINF:-1 tvg-id="" tvg-name="!T: Rai 3 HD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Rai 3 HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30660
+#EXTINF:-1 tvg-id="" tvg-name="!T: Rete 4 FHD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Rete 4 FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30662
+#EXTINF:-1 tvg-id="" tvg-name="!T: Rete 4 HD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Rete 4 HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30663
+#EXTINF:-1 tvg-id="" tvg-name="!T: Canale 5 FHD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Canale 5 FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30666
+#EXTINF:-1 tvg-id="" tvg-name="!T: Canale 5 HD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Canale 5 HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30667
+#EXTINF:-1 tvg-id="" tvg-name="!T: CANALE 8" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: CANALE 8
+http://apptv.xyz:8080/09042027/bwGzYpJ/101805
+#EXTINF:-1 tvg-id="" tvg-name="!T: CANALE 20 FULL HD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: CANALE 20 FULL HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/101803
+#EXTINF:-1 tvg-id="" tvg-name="!T: CANALE 20 HD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: CANALE 20 HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/101804
+#EXTINF:-1 tvg-id="" tvg-name="!T: CANALE 21" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: CANALE 21
+http://apptv.xyz:8080/09042027/bwGzYpJ/101802
+#EXTINF:-1 tvg-id="" tvg-name="!T: MEDIASET EXTRA" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: MEDIASET EXTRA
+http://apptv.xyz:8080/09042027/bwGzYpJ/92209
+#EXTINF:-1 tvg-id="" tvg-name="!T: GRANDE FRATELLO - DIRETTA 1" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: GRANDE FRATELLO - DIRETTA 1
+http://apptv.xyz:8080/09042027/bwGzYpJ/101797
+#EXTINF:-1 tvg-id="" tvg-name="!T: GRANDE FRATELLO - DIRETTA 2" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: GRANDE FRATELLO - DIRETTA 2
+http://apptv.xyz:8080/09042027/bwGzYpJ/101798
+#EXTINF:-1 tvg-id="" tvg-name="!T: GRANDE FRATELLO VIP DIRETTA +1" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: GRANDE FRATELLO VIP DIRETTA +1
+http://apptv.xyz:8080/09042027/bwGzYpJ/101800
+#EXTINF:-1 tvg-id="" tvg-name="!T: GRANDE FRATELLO VIP DIRETTA 1" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: GRANDE FRATELLO VIP DIRETTA 1
+http://apptv.xyz:8080/09042027/bwGzYpJ/101799
+#EXTINF:-1 tvg-id="" tvg-name="!T: GRANDE FRATELLO VIP DIRETTA 2" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: GRANDE FRATELLO VIP DIRETTA 2
+http://apptv.xyz:8080/09042027/bwGzYpJ/101801
+#EXTINF:-1 tvg-id="" tvg-name="!T: Italia 1 FHD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Italia 1 FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30669
+#EXTINF:-1 tvg-id="" tvg-name="!T: Italia 1 HD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Italia 1 HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30670
+#EXTINF:-1 tvg-id="" tvg-name="!T: LA 7 HD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: LA 7 HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30673
+#EXTINF:-1 tvg-id="" tvg-name="!T: TV8 HD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: TV8 HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30676
+#EXTINF:-1 tvg-id="" tvg-name="!T: Iris HD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Iris HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30688
+#EXTINF:-1 tvg-id="" tvg-name="!T: Rai Movie FHD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Rai Movie FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30692
+#EXTINF:-1 tvg-id="" tvg-name="!T: Rai Premium FHD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Rai Premium FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30694
+#EXTINF:-1 tvg-id="" tvg-name="!T: Cielo HD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Cielo HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30696
+#EXTINF:-1 tvg-id="" tvg-name="!T: LA 7D FHD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: LA 7D FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30698
+#EXTINF:-1 tvg-id="" tvg-name="!T: Real Time HD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Real Time HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30701
+#EXTINF:-1 tvg-id="" tvg-name="!T: Dmax HD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: Dmax HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30707
+#EXTINF:-1 tvg-id="" tvg-name="!T: TOPcrime HD" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: TOPcrime HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30709
+#EXTINF:-1 tvg-id="" tvg-name="!T: RSI LA 1" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: RSI LA 1
+http://apptv.xyz:8080/09042027/bwGzYpJ/30712
+#EXTINF:-1 tvg-id="" tvg-name="!T: RSI LA 2" tvg-logo="" group-title="Te Huaja|Italianeᵖ",!T: RSI LA 2
+http://apptv.xyz:8080/09042027/bwGzYpJ/30713
+#EXTINF:-1 tvg-id="" tvg-name="!T: Rai Yoyo HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Rai Yoyo HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30957
+#EXTINF:-1 tvg-id="" tvg-name="!T: Rai Gulp HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Rai Gulp HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30958
+#EXTINF:-1 tvg-id="" tvg-name="!T: Rai Scuola FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Rai Scuola FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30808
+#EXTINF:-1 tvg-id="" tvg-name="!T: Frisbee" tvg-logo="" group-title="Te Huaja|Italiane",!T: Frisbee
+http://apptv.xyz:8080/09042027/bwGzYpJ/30950
+#EXTINF:-1 tvg-id="" tvg-name="!T: Cartoonito" tvg-logo="" group-title="Te Huaja|Italiane",!T: Cartoonito
+http://apptv.xyz:8080/09042027/bwGzYpJ/30953
+#EXTINF:-1 tvg-id="" tvg-name="!T: Super!" tvg-logo="" group-title="Te Huaja|Italiane",!T: Super!
+http://apptv.xyz:8080/09042027/bwGzYpJ/30956
+#EXTINF:-1 tvg-id="" tvg-name="!T: Nick Jr" tvg-logo="" group-title="Te Huaja|Italiane",!T: Nick Jr
+http://apptv.xyz:8080/09042027/bwGzYpJ/30961
+#EXTINF:-1 tvg-id="" tvg-name="!T: K2" tvg-logo="" group-title="Te Huaja|Italiane",!T: K2
+http://apptv.xyz:8080/09042027/bwGzYpJ/30963
+#EXTINF:-1 tvg-id="" tvg-name="!T: Boomerang" tvg-logo="" group-title="Te Huaja|Italiane",!T: Boomerang
+http://apptv.xyz:8080/09042027/bwGzYpJ/30964
+#EXTINF:-1 tvg-id="" tvg-name="!T: Boing+" tvg-logo="" group-title="Te Huaja|Italiane",!T: Boing+
+http://apptv.xyz:8080/09042027/bwGzYpJ/30965
+#EXTINF:-1 tvg-id="" tvg-name="!T: Boing" tvg-logo="" group-title="Te Huaja|Italiane",!T: Boing
+http://apptv.xyz:8080/09042027/bwGzYpJ/30966
+#EXTINF:-1 tvg-id="" tvg-name="!T: Baby TV HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Baby TV HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30967
+#EXTINF:-1 tvg-id="" tvg-name="!T: Sky Cinema Uno FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Sky Cinema Uno FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30717
+#EXTINF:-1 tvg-id="" tvg-name="!T: Sky Cinema Uno +1 FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Sky Cinema Uno +1 FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30719
+#EXTINF:-1 tvg-id="" tvg-name="!T: Sky Cinema Uno +24 FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Sky Cinema Uno +24 FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30720
+#EXTINF:-1 tvg-id="" tvg-name="!T: Sky Cinema Due FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Sky Cinema Due FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30722
+#EXTINF:-1 tvg-id="" tvg-name="!T: Sky Cinema Due HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Sky Cinema Due HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30723
+#EXTINF:-1 tvg-id="" tvg-name="!T: Sky Cinema Comedy FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Sky Cinema Comedy FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30731
+#EXTINF:-1 tvg-id="" tvg-name="!T: Sky Cinema Family HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Sky Cinema Family HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30734
+#EXTINF:-1 tvg-id="" tvg-name="!T: Sky Cinema Suspence FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Sky Cinema Suspence FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30736
+#EXTINF:-1 tvg-id="" tvg-name="!T: Sky Cinema Romance FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Sky Cinema Romance FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30738
+#EXTINF:-1 tvg-id="" tvg-name="!T: Sky Cinema Romance HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Sky Cinema Romance HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30739
+
+#EXTINF:-1 tvg-id="" tvg-name="!T: Sky Uno FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Sky Uno FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30760
+#EXTINF:-1 tvg-id="" tvg-name="!T: Sky Uno HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Sky Uno HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30762
+#EXTINF:-1 tvg-id="" tvg-name="!T: Sky Atlantic FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Sky Atlantic FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30764
+#EXTINF:-1 tvg-id="" tvg-name="!T: Sky Atlantic HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Sky Atlantic HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30765
+#EXTINF:-1 tvg-id="" tvg-name="!T: Comedy Central FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Comedy Central FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30778
+#EXTINF:-1 tvg-id="" tvg-name="!T: Caccia FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Caccia FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30784
+#EXTINF:-1 tvg-id="" tvg-name="!T: Pesca" tvg-logo="" group-title="Te Huaja|Italiane",!T: Pesca
+http://apptv.xyz:8080/09042027/bwGzYpJ/30785
+#EXTINF:-1 tvg-id="" tvg-name="!T: Discovery Channel FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Discovery Channel FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30788
+#EXTINF:-1 tvg-id="" tvg-name="!T: Discovery Channel HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Discovery Channel HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30789
+#EXTINF:-1 tvg-id="" tvg-name="!T: Discovery Science FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Discovery Science FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30791
+#EXTINF:-1 tvg-id="" tvg-name="!T: Discovery Science HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Discovery Science HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30792
+#EXTINF:-1 tvg-id="" tvg-name="!T: Discovery Science HD +1" tvg-logo="" group-title="Te Huaja|Italiane",!T: Discovery Science HD +1
+http://apptv.xyz:8080/09042027/bwGzYpJ/30793
+#EXTINF:-1 tvg-id="" tvg-name="!T: History FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: History FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30794
+#EXTINF:-1 tvg-id="" tvg-name="!T: History HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: History HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30795
+#EXTINF:-1 tvg-id="" tvg-name="!T: Nat Geo Wild FHD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Nat Geo Wild FHD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30799
+#EXTINF:-1 tvg-id="" tvg-name="!T: Nat Geo Wild HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Nat Geo Wild HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30800
+#EXTINF:-1 tvg-id="" tvg-name="!T: Ci Crime Investigation HD" tvg-logo="" group-title="Te Huaja|Italiane",!T: Ci Crime Investigation HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/30802
+#EXTINF:-1 tvg-id="" tvg-name="!T: Focus" tvg-logo="" group-title="Te Huaja|Italiane",!T: Focus
+http://apptv.xyz:8080/09042027/bwGzYpJ/30806
 
 
