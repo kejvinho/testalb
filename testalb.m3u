@@ -2,7 +2,7 @@
 
 ############ KOMBËTARE ############
 #EXTINF:-1 group-title="Kombetare",Top Channel
-http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412159 | http://apptv.xyz:8080/live/09042027/bwGzYpJ/94011.ts
+  http://apptv.xyz:8080/live/09042027/bwGzYpJ/94011.ts | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412159
 
 #EXTINF:-1 tvg-id="13261" tvg-name="AL: TV Klan ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Kombetare",TV Klan 
 http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412160 | http://apptv.xyz:8080/live/09042027/bwGzYpJ/94012.ts
@@ -429,9 +429,7 @@ http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/965172.ts
 
 #EXTINF:-1 group-title="Adult",X 02
 http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/490608.ts
-
-#EXTINF:-1 group-title="Adult",X 03
-http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/490613.ts
+
 
 #EXTINF:-1 group-title="Adult",X 04
 http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/490613.ts
