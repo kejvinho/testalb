@@ -203,7 +203,7 @@ https://stream.arkiva.dev/seg/XH064zoWZoAnUeL9-TURxNcXZt_ImHCIr4eGppxNrHi1wdMO3X
 #EXTINF:-1 group-title="Filma",RTSH Shqip
 http://apptv.xyz:8080/09042027/bwGzYpJ/94043 | http://178.237.56.174:8080/live/27922223103749/87377791142054/972298.ts?token=cXHcdU.yXydcXf.y.yXydUzz.ydzffczUyz.X.y.AL.ts.153a68c1f3922da95946f0a6c3f3ae3754579fd22b99c71b99852d02a2a4f277...c2FzMjQubGl2ZQ==
 
-#EXTINF:-1 group-title="Kombetare",RTSH Film
+#EXTINF:-1 group-title="Filma",RTSH Film
 http://apptv.xyz:8080/09042027/bwGzYpJ/94136 | http://ibo.it-proxy-pass.xyz/live/c9m738i91o/eqhhbjjqac/1060906.ts
 
 #EXTINF:-1 group-title="Filma",T HD
@@ -317,7 +317,7 @@ https://eagletv.kejvinho.workers.dev/stream?url=http://apptv.xyz:8080/live/09042
 
 ############ DOKUMENTARE ############
 
-#EXTINF:-1 group-title="Kombetare",RTSH Agro
+#EXTINF:-1 group-title="Dokumentare",RTSH Agro
 http://apptv.xyz:8080/09042027/bwGzYpJ/88438
 
 #EXTINF:-1 group-title="Dokumentare",Explorer Natyra
