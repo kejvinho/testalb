@@ -3,9 +3,9 @@
 
 ############ KOMBËTARE ############
 #EXTINF:-1 group-title="Kombetare",Top Channel
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/94011.ts | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412159
+http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/live/09042027/bwGzYpJ/94011.ts | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412159
 
-#EXTINF:-1 tvg-id="13261" tvg-name="AL: TV Klan ⁴ᴷ" https://eagletv.kejvinho.workers.dev/stream?url=tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Kombetare",TV Klan 
+#EXTINF:-1 tvg-id="13261" tvg-name="AL: TV Klan ⁴ᴷ" http://66.42.121.160:5000/proxy?url=https://eagletv.kejvinho.workers.dev/stream?url=tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Kombetare",TV Klan 
 http://apptv.xyz:8080/live/09042027/bwGzYpJ/94012.ts | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412160
 
 #EXTINF:-1 group-title="Kombetare",Vizion PluS
