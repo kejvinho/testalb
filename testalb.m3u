@@ -296,7 +296,7 @@ http://apptv.xyz:8080/live/09042027/bwGzYpJ/35864.ts
 
 
 #EXTINF:-1 group-title="Filma",KS Premier 4
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/35865.ts
+http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/live/09042027/bwGzYpJ/35865.ts
 
 #EXTINF:-1 group-title="Filma",KS Fast and Furios 24
 http://apptv.xyz:8080/live/09042027/bwGzYpJ/37084.ts
