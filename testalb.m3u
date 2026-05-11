@@ -5,7 +5,7 @@
 http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/live/09042027/bwGzYpJ/94011.ts | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412159
 
 #EXTINF:-1 tvg-id="13261" tvg-name="AL: TV Klan ⁴ᴷ" http://66.42.121.160:5000/proxy?url=https://eagletv.kejvinho.workers.dev/stream?url=tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Kombetare",TV Klan 
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/94012.ts | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412160
+http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/live/09042027/bwGzYpJ/94012.ts | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412160
 
 #EXTINF:-1 group-title="Kombetare",Vizion PluS
 http://apptv.xyz:8080/09042027/bwGzYpJ/30152 | https://stream.arkiva.dev/seg/-_9mSp_clZ9vG7ZrQfGG2SkHq0d29UAKJ5xpd15g5eB7Io3EnPBPdQHQQZbRmDFJfrXpE2QIHKCm74ZLcYDfIS3lLiIB4SAwj2gSpS8jhjvs3l1EgiWFzZzGxQDLoF-tMc8n4ZdAS7QnNYGd73gV133W73jh | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126528 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126529
@@ -292,7 +292,7 @@ http://apptv.xyz:8080/live/09042027/bwGzYpJ/35862.ts
 
 
 #EXTINF:-1 group-title="Filma",KS Premier 3
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/35864.ts
+http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/live/09042027/bwGzYpJ/35864.ts
 
 
 #EXTINF:-1 group-title="Filma",KS Premier 4
