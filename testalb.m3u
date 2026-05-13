@@ -4,7 +4,7 @@
 #EXTINF:-1 group-title="Kombetare",Top Channel
 http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/live/09042027/bwGzYpJ/94011.ts | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412159
 
-#EXTINF:-1 tvg-id="13261" tvg-name="AL: TV Klan ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Kombetare",TV Klan 
+#EXTINF:-1 tvg-id="13261" tvg-name="TV Klan ⁴ᴷ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Kombetare",TV Klan 
 http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/live/09042027/bwGzYpJ/94012.ts | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412160
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vizion_Plus.png/960px-Vizion_Plus.png" group-title="Kombetare",Vizion Plus 
@@ -392,69 +392,69 @@ http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/09042027/bwGzYpJ/94082
 http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/09042027/bwGzYpJ/104644 | http://prosan.tv:88/live/02049673274178/4036922326/95960.ts
 
 ############ MUZIKË ############
-#EXTINF:-1 tvg-id="" tvg-name="AL: Beat TV ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Beat TV ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="Beat TV ⁴ᴷ" tvg-logo="" group-title="Muzikë",Beat TV ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/88740
-#EXTINF:-1 tvg-id="" tvg-name="AL: My Music ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",AL: My Music ⁴ᴷ ♫
+#EXTINF:-1 tvg-id="" tvg-name="My Music ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",My Music ⁴ᴷ ♫
 http://apptv.xyz:8080/09042027/bwGzYpJ/63553
-#EXTINF:-1 tvg-id="BBF" tvg-name="AL: BBF Music ᴴᴰ ♫" tvg-logo="" group-title="Muzikë",AL: BBF Music ᴴᴰ ♫
+#EXTINF:-1 tvg-id="BBF" tvg-name="BBF Music ᴴᴰ ♫" tvg-logo="" group-title="Muzikë",BBF Music ᴴᴰ ♫
 http://apptv.xyz:8080/09042027/bwGzYpJ/880
-#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Music  ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",AL: Klan Music  ⁴ᴷ ♫
+#EXTINF:-1 tvg-id="" tvg-name="Klan Music  ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",Klan Music  ⁴ᴷ ♫
 http://apptv.xyz:8080/09042027/bwGzYpJ/78723
-#EXTINF:-1 tvg-id="" tvg-name="AL: TIRANA 1 TV ♫ ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: TIRANA 1 TV ♫ ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="TIRANA 1 TV ♫ ⁴ᴷ" tvg-logo="" group-title="Muzikë",TIRANA 1 TV ♫ ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/88327
-#EXTINF:-1 tvg-id="" tvg-name="AL: AMOL TV" tvg-logo="" group-title="Muzikë",AL: AMOL TV
+#EXTINF:-1 tvg-id="" tvg-name="AMOL TV" tvg-logo="" group-title="Muzikë",AMOL TV
 http://apptv.xyz:8080/09042027/bwGzYpJ/91849
-#EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: RTV 21 Popullore ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",AL: RTV 21 Popullore ⁴ᴷ ♫
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="RTV 21 Popullore ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",RTV 21 Popullore ⁴ᴷ ♫
 http://apptv.xyz:8080/09042027/bwGzYpJ/825
-#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Popullore 1 ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Popullore 1 ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Popullore 1 ⁴ᴷ" tvg-logo="" group-title="Muzikë",Eagle Music Popullore 1 ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/103753
-#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Popullore 2 ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Popullore 2 ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Popullore 2 ⁴ᴷ" tvg-logo="" group-title="Muzikë",Eagle Music Popullore 2 ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/103887
-#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Popullore 3 ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Popullore 3 ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Popullore 3 ⁴ᴷ" tvg-logo="" group-title="Muzikë",Eagle Music Popullore 3 ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/103892
-#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Festive 1 ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Festive 1 ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Festive 1 ⁴ᴷ" tvg-logo="" group-title="Muzikë",Eagle Music Festive 1 ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/103902
-#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Festive 2 ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Festive 2 ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Festive 2 ⁴ᴷ" tvg-logo="" group-title="Muzikë",Eagle Music Festive 2 ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/103925
-#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Festive 3 ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Festive 3 ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Festive 3 ⁴ᴷ" tvg-logo="" group-title="Muzikë",Eagle Music Festive 3 ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/103926
-#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Folklorike ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Folklorike ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Folklorike ⁴ᴷ" tvg-logo="" group-title="Muzikë",Eagle Music Folklorike ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/103927
-#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Patriotike ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Patriotike ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Music Patriotike ⁴ᴷ" tvg-logo="" group-title="Muzikë",Eagle Music Patriotike ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/103930
-#EXTINF:-1 tvg-id="" tvg-name="AL: KS Çiftelia ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",AL: KS Çiftelia ⁴ᴷ ♫
+#EXTINF:-1 tvg-id="" tvg-name="KS Çiftelia ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",KS Çiftelia ⁴ᴷ ♫
 http://apptv.xyz:8080/09042027/bwGzYpJ/83082
-#EXTINF:-1 tvg-id="" tvg-name="AL: Melody TV ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",AL: Melody TV ⁴ᴷ ♫
+#EXTINF:-1 tvg-id="" tvg-name="Melody TV ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",Melody TV ⁴ᴷ ♫
 http://apptv.xyz:8080/09042027/bwGzYpJ/85583
-#EXTINF:-1 tvg-id="" tvg-name="AL: ZICO TV ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",AL: ZICO TV ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="ZICO TV ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",ZICO TV ᶠᴴᴰ
 http://apptv.xyz:8080/09042027/bwGzYpJ/1202
-#EXTINF:-1 tvg-id="SuperSonic TV" tvg-name="AL: Supersonic TV ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",AL: Supersonic TV ᶠᴴᴰ
+#EXTINF:-1 tvg-id="SuperSonic TV" tvg-name="Supersonic TV ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",Supersonic TV ᶠᴴᴰ
 http://apptv.xyz:8080/09042027/bwGzYpJ/1302
-#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Muzik ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Alb Muzik ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="Alb Muzik ⁴ᴷ" tvg-logo="" group-title="Muzikë",Alb Muzik ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/46748
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Mix ᶠᴴᴰ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/77/26/2d/92/8144-45b1-869d-c91f704ca6ff.png&maxDim=111&quot" group-title="Shqipëtare",AL: RTV 21 Mix ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Mix ᶠᴴᴰ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/77/26/2d/92/8144-45b1-869d-c91f704ca6ff.png&maxDim=111&quot" group-title="Muzikë",RTV 21 Mix ᶠᴴᴰ
 http://apptv.xyz:8080/09042027/bwGzYpJ/63502
-#EXTINF:-1 tvg-id="" tvg-name="AL: Folk + ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",AL: Folk + ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="Folk + ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",Folk + ᶠᴴᴰ
 http://apptv.xyz:8080/09042027/bwGzYpJ/945
-#EXTINF:-1 tvg-id="Elrodi TV" tvg-name="AL: Elrodi TV ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",AL: Elrodi TV ᶠᴴᴰ
+#EXTINF:-1 tvg-id="Elrodi TV" tvg-name="Elrodi TV ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",Elrodi TV ᶠᴴᴰ
 http://apptv.xyz:8080/09042027/bwGzYpJ/2615
-#EXTINF:-1 tvg-id="" tvg-name="AL: Click Channel Music  ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Click Channel Music  ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="Click Channel Music  ⁴ᴷ" tvg-logo="" group-title="Muzikë",Click Channel Music  ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/53372
-#EXTINF:-1 tvg-id="" tvg-name="AL: TV Sharri ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: TV Sharri ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="TV Sharri ⁴ᴷ" tvg-logo="" group-title="Muzikë",TV Sharri ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/37308
-#EXTINF:-1 tvg-id="" tvg-name="AL: Shota TV ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Shota TV ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="Shota TV ⁴ᴷ" tvg-logo="" group-title="Muzikë",Shota TV ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/22474
-#EXTINF:-1 tvg-id="" tvg-name="AL: Turbo Channel ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",AL: Turbo Channel ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="Turbo Channel ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",Turbo Channel ᶠᴴᴰ
 http://apptv.xyz:8080/09042027/bwGzYpJ/2479
-#EXTINF:-1 tvg-id="" tvg-name="AL: MTV Kosova ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",AL: MTV Kosova ⁴ᴷ ♫
+#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",MTV Kosova ⁴ᴷ ♫
 http://apptv.xyz:8080/09042027/bwGzYpJ/2544
-#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Plus ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",AL: RTV 21 Plus ⁴ᴷ ♫
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 Plus ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",RTV 21 Plus ⁴ᴷ ♫
 http://apptv.xyz:8080/09042027/bwGzYpJ/2568
-#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Swiss ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Alb Swiss ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="Alb Swiss ⁴ᴷ" tvg-logo="" group-title="Muzikë",Alb Swiss ⁴ᴷ
 http://apptv.xyz:8080/09042027/bwGzYpJ/63398
-#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Tv Chicago" tvg-logo="" group-title="Muzikë",AL: Alb Tv Chicago
+#EXTINF:-1 tvg-id="" tvg-name="Alb Tv Chicago" tvg-logo="" group-title="Muzikë",Alb Tv Chicago
 http://apptv.xyz:8080/09042027/bwGzYpJ/86966
-#EXTINF:-1 tvg-id="" tvg-name="AL: Top Estrada TV ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",AL: Top Estrada TV ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="Top Estrada TV ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",Top Estrada TV ᶠᴴᴰ
 http://apptv.xyz:8080/09042027/bwGzYpJ/2653
 ############ FERMA VIP ############
 #EXTINF:-1 group-title="Ferma Vip",Ferma Vip 1 
