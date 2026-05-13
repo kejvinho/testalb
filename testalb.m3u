@@ -392,37 +392,70 @@ http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/09042027/bwGzYpJ/94082
 http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/09042027/bwGzYpJ/104644 | http://prosan.tv:88/live/02049673274178/4036922326/95960.ts
 
 ############ MUZIKË ############
-#EXTINF:-1 group-title="Muzike",Folk +
-http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/09042027/bwGzYpJ/945 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126508 | https://stream.arkiva.dev/seg/C0FFHEjF0Ylm2UcROPRnrPsn5AUO7xAvF9Ox0WG7wJvrAExDpeDR0yXNzUCdKCM5R-1vtL5438zMu_PUky3FQNYFkN39UhC38Qdxzsl5GiHmAtb4tmikXOLzQmNwBgFEXRBFP927GFeXzcwnA29MUl8 | https://sas24.live:443/27922223103749/87377791142054/972074
-
-#EXTINF:-1 group-title="Muzike",BBF Music
-http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/09042027/bwGzYpJ/880 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126503 | https://sas24.live:443/27922223103749/87377791142054/972078 | https://stream.arkiva.dev/seg/FT332hIkqDdec3tQPyT_OY_z55VUNTvrwtlTA-tVyje-PV3qCUTAiv3LQUyWS-Rwrf6Vb2md3eYNAECH_4rqjhm6azQecS9BgUToPGbOGgNdMbNkUJaeqYudc7iaQd_Nw6zcWh7ORA
-
-#EXTINF:-1 group-title="Muzike",Melody TV
-http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/09042027/bwGzYpJ/85583 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126505 | https://sas24.live:443/27922223103749/87377791142054/972075 | https://sas24.live:443/27922223103749/87377791142054/972076
-
-#EXTINF:-1 group-title="Muzike",Supersonic TV
-http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/09042027/bwGzYpJ/1302 | #http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126495
-
-#EXTINF:-1 group-title="Muzike",Elrodi TV
-http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/09042027/bwGzYpJ/2615 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126506 | https://sas24.live:443/27922223103749/87377791142054/972077
-
-
-#EXTINF:-1 group-title="Muzike",Klan Music
-http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/09042027/bwGzYpJ/78723 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126507 | https://stream.arkiva.dev/seg/ZfA70UjTF8roPY8ucSm9bROyw8MKR82YrRY6xgG5-Ya3SBhU2fqp6-41_Kd5j6-bI5jze1hMQqn6W_LgpeLgwoscJ_b9joSBsekfje9dO2B77x5RW6pfKbskw-9zgO3EQGF-ql_AUVTS1iyDVosFsCqiiw
-
-#EXTINF:-1 group-title="Muzike",Zico TV
-http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/09042027/bwGzYpJ/1202 #https://shqiperia.dev/live/94/play | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/180091
-
-#EXTINF:-1 group-title="Muzike",TV Teuta
-http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/09042027/bwGzYpJ/50701 | http://cf.business-cloud-8k.com/live/d3e3b631e048/0e624d3df6/591956.ts
-
-#EXTINF:-1 group-title="Muzike",HIT TV
-http://66.42.121.160:5000/proxy?url=http://cf.business-cloud-8k.com/live/d3e3b631e048/0e624d3df6/591957.ts
-
-#EXTINF:-1 group-title="Muzike",My Music
-http://66.42.121.160:5000/proxy?url=http://apptv.xyz:8080/09042027/bwGzYpJ/63553 | http://cf.business-cloud-8k.com/live/d3e3b631e048/0e624d3df6/294605.ts | http://185.245.1.95/live/play/ZUc1eGNuWkpaV2RzYVZaTGRUZG1OVXhWV1dKMlR6YzBZMDlrS3pOTVpVSlVaR3RxZGpadVQzZDNWVDA9/294605
-
+#EXTINF:-1 tvg-id="" tvg-name="AL: Beat TV ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Beat TV ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/88740
+#EXTINF:-1 tvg-id="" tvg-name="AL: My Music ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",AL: My Music ⁴ᴷ ♫
+http://apptv.xyz:8080/09042027/bwGzYpJ/63553
+#EXTINF:-1 tvg-id="BBF" tvg-name="AL: BBF Music ᴴᴰ ♫" tvg-logo="" group-title="Muzikë",AL: BBF Music ᴴᴰ ♫
+http://apptv.xyz:8080/09042027/bwGzYpJ/880
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Music  ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",AL: Klan Music  ⁴ᴷ ♫
+http://apptv.xyz:8080/09042027/bwGzYpJ/78723
+#EXTINF:-1 tvg-id="" tvg-name="AL: TIRANA 1 TV ♫ ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: TIRANA 1 TV ♫ ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/88327
+#EXTINF:-1 tvg-id="" tvg-name="AL: AMOL TV" tvg-logo="" group-title="Muzikë",AL: AMOL TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/91849
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: RTV 21 Popullore ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",AL: RTV 21 Popullore ⁴ᴷ ♫
+http://apptv.xyz:8080/09042027/bwGzYpJ/825
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Popullore 1 ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Popullore 1 ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/103753
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Popullore 2 ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Popullore 2 ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/103887
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Popullore 3 ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Popullore 3 ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/103892
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Festive 1 ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Festive 1 ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/103902
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Festive 2 ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Festive 2 ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/103925
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Festive 3 ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Festive 3 ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/103926
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Folklorike ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Folklorike ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/103927
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eagle Music Patriotike ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Eagle Music Patriotike ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/103930
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS Çiftelia ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",AL: KS Çiftelia ⁴ᴷ ♫
+http://apptv.xyz:8080/09042027/bwGzYpJ/83082
+#EXTINF:-1 tvg-id="" tvg-name="AL: Melody TV ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",AL: Melody TV ⁴ᴷ ♫
+http://apptv.xyz:8080/09042027/bwGzYpJ/85583
+#EXTINF:-1 tvg-id="" tvg-name="AL: ZICO TV ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",AL: ZICO TV ᶠᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/1202
+#EXTINF:-1 tvg-id="SuperSonic TV" tvg-name="AL: Supersonic TV ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",AL: Supersonic TV ᶠᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/1302
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Muzik ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Alb Muzik ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/46748
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Mix ᶠᴴᴰ" tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/77/26/2d/92/8144-45b1-869d-c91f704ca6ff.png&maxDim=111&quot" group-title="Shqipëtare",AL: RTV 21 Mix ᶠᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/63502
+#EXTINF:-1 tvg-id="" tvg-name="AL: Folk + ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",AL: Folk + ᶠᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/945
+#EXTINF:-1 tvg-id="Elrodi TV" tvg-name="AL: Elrodi TV ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",AL: Elrodi TV ᶠᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/2615
+#EXTINF:-1 tvg-id="" tvg-name="AL: Click Channel Music  ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Click Channel Music  ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/53372
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Sharri ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: TV Sharri ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/37308
+#EXTINF:-1 tvg-id="" tvg-name="AL: Shota TV ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Shota TV ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/22474
+#EXTINF:-1 tvg-id="" tvg-name="AL: Turbo Channel ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",AL: Turbo Channel ᶠᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/2479
+#EXTINF:-1 tvg-id="" tvg-name="AL: MTV Kosova ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",AL: MTV Kosova ⁴ᴷ ♫
+http://apptv.xyz:8080/09042027/bwGzYpJ/2544
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Plus ⁴ᴷ ♫" tvg-logo="" group-title="Muzikë",AL: RTV 21 Plus ⁴ᴷ ♫
+http://apptv.xyz:8080/09042027/bwGzYpJ/2568
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Swiss ⁴ᴷ" tvg-logo="" group-title="Muzikë",AL: Alb Swiss ⁴ᴷ
+http://apptv.xyz:8080/09042027/bwGzYpJ/63398
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Tv Chicago" tvg-logo="" group-title="Muzikë",AL: Alb Tv Chicago
+http://apptv.xyz:8080/09042027/bwGzYpJ/86966
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Estrada TV ᶠᴴᴰ" tvg-logo="" group-title="Muzikë",AL: Top Estrada TV ᶠᴴᴰ
+http://apptv.xyz:8080/09042027/bwGzYpJ/2653
 ############ FERMA VIP ############
 #EXTINF:-1 group-title="Ferma Vip",Ferma Vip 1 
 https://stream.arkiva.dev/seg/V9YNLBodmzLZpClijw-JKRdYHw3VeWYPlFa32eiFN0Ie7_88abNHGjA0iJbo9tLskpiiDTeal8Q0Fx-Fy0XsWzZ5vm08_C92-MQzoZdw9OqLlukCKXOHrTn7sNXzBRU6nYv-TKY6pg
